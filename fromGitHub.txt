@@ -1,0 +1,1 @@
+Exercise file to pull from GitHub to local Git repository
